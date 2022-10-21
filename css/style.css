@@ -78,6 +78,20 @@ body {
     background-color: #fff;
 }
 
+.marquee {
+    background: rgba(0, 0, 0, 0) url(../images/nirf-icon.jpg) no-repeat scroll 0 0;
+    box-sizing: border-box;
+    color: red;
+    font-family: arial;
+    font-size: 12px;
+    padding-right: 7px;
+    padding-top: 9px;
+    font-weight: 600;
+    padding-left: 36px;
+    padding-bottom: 0px;
+    flex: 0 0 55%;
+}
+
 .button3 {
 	
   text-align: center;
